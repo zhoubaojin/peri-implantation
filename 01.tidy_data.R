@@ -290,3 +290,4 @@ writeData(wb,"ZscoreInteisty",out.scale)
 saveWorkbook(wb,file = "../result/Table1.Proteome.xlsx",overwrite = T)
 
 
+
